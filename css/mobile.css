@@ -33,6 +33,7 @@
   #job-info .container {
     grid-template-columns: 1fr;
   }
+  
   /* CSS  CHỨNG CHỈ */
   #certificate {
     margin-top: 250px;
@@ -48,9 +49,15 @@
     grid-template-columns: 1fr;
     width: 100%;
   }
+  
   .project--1,
   .project--2,
   .project--3 {
     width: 100%;
+  }
+  
+  /* CSS  FOOTER */
+  .text-social {
+    display: none;
   }
 }
