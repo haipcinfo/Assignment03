@@ -333,5 +333,7 @@ td {
 }
 
 #footer .container li {
+  display: flex;
+  align-items: center;
   margin: 20px;
 }
